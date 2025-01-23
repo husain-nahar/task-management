@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "80784115387",
+    "project_id": "taskmanagement-a3a7d",
+    "storage_bucket": "taskmanagement-a3a7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80784115387:android:a7026c827bd51499694b9e",
+        "android_client_info": {
+          "package_name": "com.example.task_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80784115387-v5ucvk8pr31uq99phvo5sloslhrmavev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_management",
+            "certificate_hash": "407727599ebd26f534249b1b9129703eb91fc8a1"
+          }
+        },
+        {
+          "client_id": "80784115387-69m2pc3q0vol6ebmitus9ac6d5nb4uer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIylmpg9HrCbFsj6qBEhhAE6uvPi5OA-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80784115387-69m2pc3q0vol6ebmitus9ac6d5nb4uer.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80784115387-msi2krhl3s50b3p4hv2r32ogbvqpu4u9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
