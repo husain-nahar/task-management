@@ -1,5 +1,8 @@
 # task-management
+LINK TO THE VIDEO:
+https://share.icloud.com/photos/0c02yfTRIvq_oVbi5O01pUWmA
 
+ABOUT PROJECT:
 - First of all, download the project and *run pub get*.
 - if incase the iOS doesnt work, *pod deintegrate* then *pod install*.
 - please use test mobile numbers and otp as described in the app.
